@@ -52,7 +52,7 @@ Ethanol-Blended Petrol is a project aimed at addressing critical challenges in B
 ### Installation
 This repository includes all documentation and resources required to implement the Ethanol-Blended Petrol project. Clone the repository to get started:
 ```bash
-git clone https://github.com/your-repo-name/ethanol-blended-petrol.git
+git clone https://github.com/Hackathon-Project/ethanol-blended-petrol.git
 ```
 
 ---
